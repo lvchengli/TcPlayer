@@ -30,3 +30,6 @@ yarn add tcplayer@0.0.1
 
 ## 自动更新
 本库每天会做自动更新，检查源地址的md5是否变更，变更则自动提交commit，tag自增，并自动发布到 [npm](https://www.npmjs.com/package/tcplayer) 。
+
+## LICENSE
+MIT
