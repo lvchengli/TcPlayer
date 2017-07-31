@@ -4,6 +4,10 @@
 * 源文件 [http://imgcache.qq.com/open/qcloud/video/vcplayer/TcPlayer.js](http://imgcache.qq.com/open/qcloud/video/vcplayer/TcPlayer.js)
 * 腾讯云直播web播放器文档 [https://www.qcloud.com/document/product/267/7479](https://www.qcloud.com/document/product/267/7479)
 
+## 广告
+腾讯这个sdk闭源，代码写得忒烂，直播rtmp时使用的swf事件不全，bug众多，又无处反馈。
+so，我自己写了个播放器，用在公司项目中，各位有兴趣可以来使用、拍砖、贡献代码。
+
 ## 安装
 
 ```bash
